@@ -13,8 +13,13 @@ body {
 
 .wrapper {
 
-  background-color: rgb(95, 95, 109);
+  /*background-color: rgb(95, 95, 109);*/
   min-height: calc(100vh - 56px - 40px );
 }
 
+.about-img {
 
+  width: 250px;
+  height: 250px;
+
+}
